@@ -1,7 +1,6 @@
 # Fullstack Java Project
 
-## Firstname Lastname (Class)
-Change the name and Class in the title above
+## Iren van der Beek (2TIN B / 3AON A)
 
 ## Folder structure
 
