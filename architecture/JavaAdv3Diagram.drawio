@@ -13,7 +13,7 @@
         <mxCell id="3m38V3VpkpyMnpUfA3VL-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3m38V3VpkpyMnpUfA3VL-15" target="3m38V3VpkpyMnpUfA3VL-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3m38V3VpkpyMnpUfA3VL-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="3m38V3VpkpyMnpUfA3VL-15" target="3m38V3VpkpyMnpUfA3VL-17">
+        <mxCell id="3m38V3VpkpyMnpUfA3VL-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="3m38V3VpkpyMnpUfA3VL-41" target="3m38V3VpkpyMnpUfA3VL-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3m38V3VpkpyMnpUfA3VL-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -69,6 +69,25 @@
         </mxCell>
         <mxCell id="3m38V3VpkpyMnpUfA3VL-39" value="Logging service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="870" y="238" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3m38V3VpkpyMnpUfA3VL-42" value="Event for notifs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="115" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3m38V3VpkpyMnpUfA3VL-43" value="Read+&lt;span style=&quot;background-color: initial;&quot;&gt;mark as read notifs&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3m38V3VpkpyMnpUfA3VL-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="3m38V3VpkpyMnpUfA3VL-15" target="3m38V3VpkpyMnpUfA3VL-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="265" as="sourcePoint" />
+            <mxPoint x="840" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="265" />
+              <mxPoint x="760" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3m38V3VpkpyMnpUfA3VL-41" value="Read+&lt;div&gt;make+&lt;/div&gt;&lt;div&gt;filter posts&lt;br&gt;&lt;br&gt;Comments are also posts&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="145" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
