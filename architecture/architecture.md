@@ -1,6 +1,6 @@
 # Architecture
 
-OpenFeighn for logging (which is easier to read if synced), proxy async to not block calls, notif async because its no big deal if notif is a few secs off
+OpenFeighn for logging (which is easier to read if synced) and review service so that post can easily get to the reviews of the post, proxy async to not block calls, notif async because its no big deal if notif is a few secs off
 
 ![BasicallySO Architecture](https://github.com/pxlit-projects/project-IrenvanderBeekPXL/blob/main/architecture/Screenshot%20from%202024-11-15%2011-56-04.png)
 
